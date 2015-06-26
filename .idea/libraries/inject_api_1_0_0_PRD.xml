@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="inject-api-1.0.0-PRD">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/inject-api-1.0.0-PRD.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
